@@ -7,20 +7,24 @@
       }
 
       .cls-2 {
-        fill: url(#Dégradé_sans_nom_217-2);
+        fill: url(#Dégradé_sans_nom_870-2);
       }
 
       .cls-3 {
-        fill: url(#Dégradé_sans_nom_217);
+        fill: url(#Dégradé_sans_nom_870);
       }
     </style>
-    <linearGradient id="Dégradé_sans_nom_217" data-name="Dégradé sans nom 217" x1="237.16" y1="0" x2="237.16" y2="474.31" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#68b9e8"/>
-      <stop offset=".25" stop-color="#6d9dd4"/>
-      <stop offset=".77" stop-color="#7a56a2"/>
-      <stop offset="1" stop-color="#80368c"/>
+    <linearGradient id="Dégradé_sans_nom_870" data-name="Dégradé sans nom 870" x1="237.16" y1="0" x2="237.16" y2="474.31" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#75ccf4"/>
+      <stop offset=".21" stop-color="#72cbf0"/>
+      <stop offset=".37" stop-color="#6bc8e6"/>
+      <stop offset=".53" stop-color="#5fc4d5"/>
+      <stop offset=".67" stop-color="#4ebebd"/>
+      <stop offset=".81" stop-color="#38b69f"/>
+      <stop offset=".94" stop-color="#1dad79"/>
+      <stop offset="1" stop-color="#10a967"/>
     </linearGradient>
-    <linearGradient id="Dégradé_sans_nom_217-2" data-name="Dégradé sans nom 217" x1="140.31" y1="124.51" x2="381.49" y2="124.51" xlink:href="#Dégradé_sans_nom_217"/>
+    <linearGradient id="Dégradé_sans_nom_870-2" data-name="Dégradé sans nom 870" x1="140.31" y1="124.51" x2="381.49" y2="124.51" xlink:href="#Dégradé_sans_nom_870"/>
   </defs>
   <g id="Calque_2-2" data-name="Calque 2">
     <g>
