@@ -1,5 +1,5 @@
 === A11y Widget – Module d’accessibilité ===
-Contributors: Amandine Bouteloup, Marie Le Bout, Noémie Masclef, Miranda Oger, Gaëlle Sing Ling
+Contributors: Amandine Bouteloup, Marie Le Bout, Noémie Masclef, Miranda Oger, Gaëlle Sing Ling (année 2025-2026)
 
 
 
