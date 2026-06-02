@@ -1,5 +1,8 @@
 === A11y Widget – Module d’accessibilité ===
-Contributors: mobls, chatgpt
+Contributors: Amandine Bouteloup, Marie Le Bout, Noémie Masclef, Miranda Oger, Gaëlle Sing Ling
+
+
+
 Tags: accessibility, a11y, widget, comfort, reading
 Requires at least: 5.0
 Tested up to: 6.6
