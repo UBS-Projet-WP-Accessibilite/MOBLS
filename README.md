@@ -1,6 +1,6 @@
 === MOBLS – Module d’accessibilité ===
 
-Contributors: Amandine Bouteloup, Marie Le Bout, Noémie Masclef, Miranda Oger, Gaëlle Sing Ling
+Créatrices et mainteneuses : Amandine Bouteloup, Marie Le Bout, Noémie Masclef, Miranda Oger, Gaëlle Sing Ling
 
 Tags: accessibility, a11y, widget, comfort, reading
 Requires at least: 5.0
