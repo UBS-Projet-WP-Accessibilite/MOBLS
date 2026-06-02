@@ -2,6 +2,13 @@
 
 Créatrices et mainteneuses : Amandine Bouteloup, Marie Le Bout, Noémie Masclef, Miranda Oger, Gaëlle Sing Ling
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://github.com/UBS-Projet-WP-Accessibilite/MOBLS/blob/main/MOBLS.jpg)">
+ <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://github.com/UBS-Projet-WP-Accessibilite/MOBLS/blob/main/MOBLS.jpg)">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
+
 Tags: accessibility, a11y, widget, comfort, reading
 Requires at least: 5.0
 Tested up to: 6.6
