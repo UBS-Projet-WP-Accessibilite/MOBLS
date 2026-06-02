@@ -3,8 +3,8 @@
 Créatrices et mainteneuses : Amandine Bouteloup, Marie Le Bout, Noémie Masclef, Miranda Oger, Gaëlle Sing Ling
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://github.com/UBS-Projet-WP-Accessibilite/MOBLS/blob/main/MOBLS.jpg)">
- <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://github.com/UBS-Projet-WP-Accessibilite/MOBLS/blob/main/MOBLS.jpg)">
+ <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE]([https://github.com/UBS-Projet-WP-Accessibilite/MOBLS/blob/main/MOBLS.jpg](https://raw.githubusercontent.com/UBS-Projet-WP-Accessibilite/MOBLS/refs/heads/main/MOBLS.jpg))">
+ <source media="(prefers-color-scheme: light)" srcset="[[YOUR-LIGHTMODE-IMAGE](https://github.com/UBS-Projet-WP-Accessibilite/MOBLS/blob/main/MOBLS.jpg](https://raw.githubusercontent.com/UBS-Projet-WP-Accessibilite/MOBLS/refs/heads/main/MOBLS.jpg))">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
